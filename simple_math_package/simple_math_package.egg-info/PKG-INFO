@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: simple_math_package
+Version: 0.1.0
+Summary: A simple demonstration Python package for incrementing numbers.
+Home-page: https://github.com/yourusername/simple_math_package
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# simple_math_package
+
+A simple Python package that demonstrates how to increment numbers.
+
+## Installation
+
+``` bash
+pip install .
